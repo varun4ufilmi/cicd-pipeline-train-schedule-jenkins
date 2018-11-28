@@ -15,4 +15,4 @@ You can run the app with:
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 I am making a change in the file
 Jenkins is awesome this is a test and another test change
-Change is important
+Change is important and is consistent
